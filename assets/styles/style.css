@@ -1,0 +1,9 @@
+* {
+    text-align: center;
+}
+#myForm {
+    text-align: center;
+    margin: 20px 40px 3px 40px;
+    padding: 10px;
+    font-size: 16px;
+}
